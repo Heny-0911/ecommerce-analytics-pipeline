@@ -17,7 +17,7 @@ This project demonstrates a **complete e-commerce data workflow** using Python. 
 - `rfm_cohort.py` — RFM and Cohort analysis code
 - 'visualization.py' - visualization code
 
-- Tools Used
+## Tools Used
 
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
 
